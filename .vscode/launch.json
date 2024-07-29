@@ -9,7 +9,7 @@
                 "type": "chrome",
                 "request": "launch",
                 "name": "Open index.html",
-                "file": "/home/gathu/Documents/Personal/portfolio_final_project/index.html"
+                "file": "/home/gathu//Documents/Personal/verypersonal/portfolio_final_project/index.html"
             }
         ]
     }
